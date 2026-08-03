@@ -78,7 +78,7 @@ scrutiny.
 
 `C++` · `Make`
 
-**[→ Repository](https://github.com/dogsploit-py/lifesim)**
+**[→ Repository](https://github.com/dogsploit-py/genesis)**
 
 ## Certifications
 
