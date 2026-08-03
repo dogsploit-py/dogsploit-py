@@ -6,7 +6,7 @@
 
 Brasília, Brazil
 
-[![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-4_Certifications-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)(https://www.credly.com/users/lucas-vieira.2c21d8c8)]
+[![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-4_Certifications-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/users/lucas-vieira.2c21d8c8)
 
 </div>
 
