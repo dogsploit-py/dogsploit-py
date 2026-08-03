@@ -71,7 +71,7 @@ No live samples — detection artifacts only.
 
 ---
 
-### lifesim
+### Genesis
 A life simulation written in pure C++. No engine, no dependencies, no external
 libraries, just the standard library and a model that holds up under
 scrutiny.
