@@ -80,6 +80,15 @@ scrutiny.
 
 **[→ Repository](https://github.com/dogsploit-py/genesis)**
 
+---
+
+### DogScript
+My own language written in pure C. No engine, no dependencies, no external libraries.
+
+`C` . `Make`
+
+**[→ Repository](https://github.com/dogsploit-py/dogscript)**
+
 ## Certifications
 
 **IBM Quantum** — completed the full learning track, foundational through advanced.
