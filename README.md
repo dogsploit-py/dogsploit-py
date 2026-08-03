@@ -67,7 +67,7 @@ No live samples — detection artifacts only.
 
 `YARA` · `Python` · `Ghidra`
 
-**[→ Repository](yara-detections)**
+**[→ Repository](https://github.com/dogsploit-py/yara-detections)**
 
 ---
 
