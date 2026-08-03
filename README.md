@@ -56,7 +56,7 @@ presentation.
 
 `Python` · `Qiskit` · `NumPy`
 
-**[→ Repository](#)** · **[→ Paper / slides](#)**
+**[→ Repository](https://github.com/dogsploit-py/quantum-medical-crypto)**
 
 ---
 
@@ -72,13 +72,13 @@ No live samples — detection artifacts only.
 ---
 
 ### lifesim
-A life simulation written in pure C. No engine, no dependencies, no external
+A life simulation written in pure C++. No engine, no dependencies, no external
 libraries, just the standard library and a model that holds up under
 scrutiny.
 
-`C` · `Make`
+`C++` · `Make`
 
-**[→ Repository](#)**
+**[→ Repository](https://github.com/dogsploit-py/lifesim)**
 
 ## Certifications
 
