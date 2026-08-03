@@ -17,7 +17,7 @@ Brasília, Brazil
 I work at the intersection of two things that sound unrelated until you look
 closely: **breaking systems** and **building ones that can't be broken.**
 
-On one side, I reverse engineer malware — pulling apart packers, tracing
+On one side, I reverse engineer malware, pulling apart packers, tracing
 injection routines, and writing the detection logic that catches the next
 sample from the same family. On the other, I study quantum information theory,
 where security stops being a matter of computational difficulty and starts
@@ -47,7 +47,7 @@ imaging.
 
 ---
 
-## Projects
+## Some projects
 
 ### quantum-medical-crypto
 Quantum-cryptographic protection for patient records and medical imaging.
@@ -61,36 +61,24 @@ presentation.
 ---
 
 ### yara-detections
-Detection rules and analysis writeups for malware families I've reverse
-engineered. Static signatures, IOCs, unpacking notes, and annotated routines.
+Detection scripts for malware families I've reverse engineered. 
+Static signatures, IOCs, unpacking notes, and annotated routines.
 No live samples — detection artifacts only.
 
 `YARA` · `Python` · `Ghidra`
 
-**[→ Repository](#)**
+**[→ Repository](#yara-detections)**
 
 ---
 
 ### lifesim
 A life simulation written in pure C. No engine, no dependencies, no external
-libraries — just the standard library and a model that holds up under
+libraries, just the standard library and a model that holds up under
 scrutiny.
 
 `C` · `Make`
 
 **[→ Repository](#)**
-
----
-
-### qec-notebooks
-Implementations from the IBM Quantum error correction track — stabilizer codes,
-syndrome measurement, and the surface code walked through in executable form.
-
-`Python` · `Qiskit`
-
-**[→ Repository](#)**
-
----
 
 ## Certifications
 
