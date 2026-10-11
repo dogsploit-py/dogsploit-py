@@ -23,7 +23,7 @@ sample from the same family. On the other, I study quantum information theory,
 where security stops being a matter of computational difficulty and starts
 being a matter of physics.
 
-In September I'm presenting research that connects them directly: using
+In September I presented research that connects them directly: using
 quantum cryptographic techniques to protect medical records and diagnostic
 imaging.
 
@@ -34,7 +34,7 @@ imaging.
 
 ---
 
-## Current focus
+## Last focus
 
 > ### Global Health Catalyst Summit — September 2026
 >
